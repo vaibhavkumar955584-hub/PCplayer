@@ -1,0 +1,1 @@
+ D:\\projects\\vdo\ player\\.dart_tool\\flutter_build\\51a03d80e9478d6236ba5339b7264e34\\dart_build_result.json:  C:\\Src\\flutter\\bin\\cache\\dart-sdk\\version D:\\projects\\vdo\ player\\.dart_tool\\package_config.json D:\\projects\\vdo\ player\\pubspec.yaml d:\\projects\\vdo\ player\\.dart_tool\\package_config.json

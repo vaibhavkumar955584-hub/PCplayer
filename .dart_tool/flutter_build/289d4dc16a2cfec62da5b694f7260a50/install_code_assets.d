@@ -1,0 +1,1 @@
+ D:\\projects\\vdo\ player\\.dart_tool\\flutter_build\\289d4dc16a2cfec62da5b694f7260a50\\native_assets.json:  D:\\projects\\vdo\ player\\.dart_tool\\hooks_runner\\shared\\sqlite3\\build\\download-2bf39f2a\\sqlite3.dll

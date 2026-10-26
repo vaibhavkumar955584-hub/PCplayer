@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.VdoPlayer" parent="Theme.MaterialComponents.Light" />
+</resources>
